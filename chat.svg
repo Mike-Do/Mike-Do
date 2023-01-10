@@ -1,3 +1,4 @@
+<!-- CITATION: Credit to https://github.com/jasonlong for creating the SVGs -->
 <svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <style>
       .bubble {
@@ -273,7 +274,7 @@
     </g>
   
     <g transform="translate(10, 48)" class="msg-2">
-      <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+      <rect width="700" height="66.1302" rx="18.0355" class="bubble" />
       <text x="15" y="27">I'm a Junior at Brown University studying CS,</text>
       <text x="15" y="50">and I'm all about turning Science Fiction into Science Fact 💻!</text>
     </g>
@@ -298,7 +299,7 @@
   
     <!-- ML ... -->
     <g transform="translate(10, 120)" class="msg-3">
-      <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
+      <rect width="520" height="66.1302" rx="18.0355" class="bubble" />
       <text x="15" y="27">I am currently learning more about machine learning,</text>
       <text x="15" y="50">and I'm excited to delve deeper into other technologies.</text>
     </g>
@@ -323,7 +324,7 @@
   
     <!-- Website -->
     <g transform="translate(10, 192)" class="msg-4">
-      <rect width="513" height="42" rx="18.0355" class="bubble" />
+      <rect width="440" height="42" rx="18.0355" class="bubble" />
       <text x="15" y="27">
         Please visit
         <a xlink:href="https://mikedonoso.me">mikedonoso.me</a> 🧸
@@ -351,7 +352,7 @@
   
     <!-- Thanks -->
     <g transform="translate(10, 240)" class="msg-5">
-      <rect width="235" height="42" rx="18.0355" class="bubble" />
+      <rect width="220" height="42" rx="18.0355" class="bubble" />
       <text x="15" y="27">Thanks for stopping by.</text>
     </g>
   
@@ -375,7 +376,7 @@
   
     <!-- Have a great... -->
     <g transform="translate(10, 288)" class="msg-6">
-      <rect width="100" height="42" rx="18.0355" class="bubble" />
+      <rect width="150" height="42" rx="18.0355" class="bubble" />
       <text x="15" y="27">Have a great day! <tspan class="emoji">🙋</tspan></text>  
     </g>
   </svg>
