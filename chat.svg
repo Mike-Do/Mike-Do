@@ -251,7 +251,7 @@
   
     <!-- Hi, I'm Mike -->
     <g transform="translate(10, 0)" class="msg-1 bubble">
-      <rect width="155" height="42" rx="18.0355" />
+      <rect width="160" height="42" rx="18.0355" />
       <text x="15" y="27">Hi, I'm Mike <tspan class="emoji">👨‍💻</tspan>!</text>
     </g>
   
@@ -275,7 +275,7 @@
 
 
     <g transform="translate(10, 48)" class="msg-2">
-      <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
+      <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
       <text x="15" y="27">I'm a Junior at Brown University <tspan class="emoji">🐻</tspan> studying CS,</text>
       <text x="15" y="50">and I'm also a fullstack developer! <tspan class="emoji">🧪</tspan></text>
     </g>
