@@ -252,7 +252,7 @@
     <!-- Hi, I'm Mike -->
     <g transform="translate(10, 0)" class="msg-1 bubble">
       <rect width="100" height="42" rx="18.0355" />
-      <text x="15" y="27">Hi, I'm Mike <tspan class="emoji">🐻</tspan>!</text>
+      <text x="15" y="27">Hi, I'm Mike <tspan class="emoji">👨‍💻</tspan>!</text>
     </g>
   
     <!-- typing 2 -->
@@ -275,8 +275,14 @@
   
     <g transform="translate(10, 48)" class="msg-2">
       <rect width="700" height="66.1302" rx="18.0355" class="bubble" />
-      <text x="15" y="27">I'm a Junior at Brown University studying CS,</text>
-      <text x="15" y="50">and I'm all about turning Science Fiction into Science Fact 💻!</text>
+      <text x="15" y="27"></text>
+      <text x="15" y="50"></text>
+    </g>
+
+    <g transform="translate(10, 48)" class="msg-2">
+      <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+      <text x="15" y="27">I'm a Junior at Brown University <tspan class="emoji">🐻</tspan> studying CS,</text>
+      <text x="15" y="50">and I'm interested in turning Science Fiction into Science Fact! <tspan class="emoji">🧪</tspan></text>
     </g>
   
     <!-- typing 3 -->
@@ -300,7 +306,7 @@
     <!-- ML ... -->
     <g transform="translate(10, 120)" class="msg-3">
       <rect width="520" height="66.1302" rx="18.0355" class="bubble" />
-      <text x="15" y="27">I am currently learning more about machine learning,</text>
+      <text x="15" y="27">I am currently learning more about machine learning, <tspan class="emoji">🤖</tspan></text>
       <text x="15" y="50">and I'm excited to delve deeper into other technologies.</text>
     </g>
   
@@ -326,8 +332,8 @@
     <g transform="translate(10, 192)" class="msg-4">
       <rect width="440" height="42" rx="18.0355" class="bubble" />
       <text x="15" y="27">
-        Please visit
-        <a xlink:href="https://mikedonoso.me">mikedonoso.me</a> 🧸
+        Visit
+        <a xlink:href="https://mikedonoso.me">mikedonoso.me</a> <tspan class="emoji">🧸</tspan>
         for more info about me!
       </text>
     </g>
